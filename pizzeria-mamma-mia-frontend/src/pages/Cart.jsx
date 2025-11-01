@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { pizzaCart } from './assets/pizzas'
+import { pizzaCart } from '../assets/pizzas'
 import { formatCLP } from '../utils/formatCurrency'
 
 export default function Cart() {

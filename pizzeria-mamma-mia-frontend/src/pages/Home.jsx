@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react"
-import CardPizza from "./CardPizza"
-// ⬇️ Puedes usar el helper o fetch directo
+import CardPizza from "../components/CardPizza"
 import { getPizzas } from "../services/api"
 
 export default function Home() {

@@ -1,3 +1,5 @@
+import React from "react"
+
 export default function Profile() {
     const userEmail = "usuario@mamma-mia.com"
   
